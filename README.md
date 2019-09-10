@@ -1,2 +1,2 @@
 # Bypass-Uploader
-bypass uploader image list of signature. auto upload bypass ext ["jpg", "jpeg", "png", "gif"]
+bypass uploader image list of signature. Allowed image type ["jpg", "jpeg", "png", "gif"]
